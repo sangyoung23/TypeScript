@@ -45,3 +45,8 @@
 
 
 <img width="368" alt="스크린샷 2022-11-15 오전 2 09 26" src="https://user-images.githubusercontent.com/76932869/201722493-45af179c-79af-4e35-a1e1-43d756a04de3.png">
+
+# - 함수의 타이핑 , 선택적 매개변수 , 기본 매개변수
+
+
+<img width="670" alt="스크린샷 2022-11-15 오전 2 28 59" src="https://user-images.githubusercontent.com/76932869/201726499-aed4a187-c424-4276-a0d2-2ce80fa61a24.png">
