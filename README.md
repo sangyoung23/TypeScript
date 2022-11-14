@@ -22,3 +22,20 @@
 <img width="384" alt="스크린샷 2022-11-15 오전 1 29 46" src="https://user-images.githubusercontent.com/76932869/201713621-b4ab32a1-f024-4e16-acc4-1b1b7522618e.png">
 
 <img width="409" alt="스크린샷 2022-11-15 오전 1 30 06" src="https://user-images.githubusercontent.com/76932869/201713676-72855c69-9804-4c73-8a10-f7cc3990ff81.png">
+
+# - enum
+
+<img width="348" alt="스크린샷 2022-11-15 오전 1 45 26" src="https://user-images.githubusercontent.com/76932869/201717037-cc30ff0d-c647-47b7-bff2-fd9a84622027.png">
+
+
+
+<img width="358" alt="스크린샷 2022-11-15 오전 1 45 50" src="https://user-images.githubusercontent.com/76932869/201717117-30aa8d61-957f-4912-8ee2-32307b206b0f.png">
+
+<img width="323" alt="스크린샷 2022-11-15 오전 1 46 17" src="https://user-images.githubusercontent.com/76932869/201717217-99ea5dde-fa26-4000-b0fa-e427040330cb.png">
+
+
+# - 리터럴 타입
+
+
+<img width="352" alt="스크린샷 2022-11-15 오전 1 48 52" src="https://user-images.githubusercontent.com/76932869/201717777-00d7e09f-a097-4756-9624-951746cb8eb6.png">
+
