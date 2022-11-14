@@ -50,3 +50,8 @@
 
 
 <img width="670" alt="스크린샷 2022-11-15 오전 2 28 59" src="https://user-images.githubusercontent.com/76932869/201726499-aed4a187-c424-4276-a0d2-2ce80fa61a24.png">
+
+# - Class와 object
+
+<img width="578" alt="스크린샷 2022-11-15 오전 2 49 58" src="https://user-images.githubusercontent.com/76932869/201730751-d7357198-e217-427c-8908-afb8de4b79e8.png">
+
