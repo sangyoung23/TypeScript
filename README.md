@@ -39,3 +39,9 @@
 
 <img width="352" alt="스크린샷 2022-11-15 오전 1 48 52" src="https://user-images.githubusercontent.com/76932869/201717777-00d7e09f-a097-4756-9624-951746cb8eb6.png">
 
+# - any 타입 , 유니언 타입 , Type Aliases , 타입가드
+
+<img width="597" alt="스크린샷 2022-11-15 오전 2 08 38" src="https://user-images.githubusercontent.com/76932869/201722339-ed806792-91a1-4a8c-8cc0-6469786578c0.png">
+
+
+<img width="368" alt="스크린샷 2022-11-15 오전 2 09 26" src="https://user-images.githubusercontent.com/76932869/201722493-45af179c-79af-4e35-a1e1-43d756a04de3.png">
