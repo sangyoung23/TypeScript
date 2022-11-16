@@ -55,3 +55,15 @@
 
 <img width="578" alt="스크린샷 2022-11-15 오전 2 49 58" src="https://user-images.githubusercontent.com/76932869/201730751-d7357198-e217-427c-8908-afb8de4b79e8.png">
 
+# - Constructor , 접근 제한자 , getter와 setter
+
+<img width="831" alt="스크린샷 2022-11-16 오후 8 41 40" src="https://user-images.githubusercontent.com/76932869/202171517-3014cc7b-a4eb-4367-8fdf-0c91a4c7eb15.png">
+
+<img width="749" alt="스크린샷 2022-11-16 오후 8 41 57" src="https://user-images.githubusercontent.com/76932869/202171570-cbc92f9c-b1af-4497-ae80-177279440781.png">
+
+# - constructor 매개변수에 접근제한자 직접 적용
+
+<img width="750" alt="스크린샷 2022-11-16 오후 8 45 36" src="https://user-images.githubusercontent.com/76932869/202172301-377dd90e-3f56-4cb1-a6f5-8024553a6a90.png">
+
+
+
