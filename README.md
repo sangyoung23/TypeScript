@@ -65,5 +65,7 @@
 
 <img width="750" alt="스크린샷 2022-11-16 오후 8 45 36" src="https://user-images.githubusercontent.com/76932869/202172301-377dd90e-3f56-4cb1-a6f5-8024553a6a90.png">
 
+# - array안 여러가지 타입 지정
+<pre><code>	let people : (string | number)[] = ['kim', 123]    </code></pre>
 
 
